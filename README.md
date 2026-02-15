@@ -1,2 +1,0 @@
-# INTERN_SUBMISSION
-Audio_processing_Assignment
